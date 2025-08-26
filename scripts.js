@@ -1,3 +1,4 @@
+/* js/scripts.js of bbauska/ufo-et-timeline for ufo-et-timeline.bauska.org */
 (function () {
   "use strict";
 
